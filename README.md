@@ -1,2 +1,2 @@
 # mytest
-This is a brief description
+This is now more than a brief description
